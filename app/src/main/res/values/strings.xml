@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoadAssincrono</string>
+    <string name="instructions">Enter a book name to find out who wrote the book. </string>
+
+    <string name="button_text">Busca Livros</string>
+
+    <string name="input_hint">Titulo Livro</string>
+
+    <string name="loading">Carregando…</string>
+
+    <string name="no_results">"Nenhum resultado encontrado"</string>
+
+    <string name="no_search_term">Informe um termo de busca</string>
+
+    <string name="no_network">verifique sua conexão.</string>
+    <string name="str_empty">" "</string>
+</resources>
