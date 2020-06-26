@@ -46,7 +46,7 @@ public class NetworkUtils {
             StringBuilder builder = new StringBuilder();
             String linha;
             while ((linha = reader.readLine()) != null) {
-                // Adiciona a linha astring.
+                // Adiciona a linha a string.
                 builder.append(linha);
                 builder.append("\n");
             }
